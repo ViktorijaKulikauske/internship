@@ -1,0 +1,271 @@
+{
+  "logo": {
+    "text": "Logo"
+  },
+  "menu": [
+    {
+      "link": "/",
+      "linkText": "Home"
+    },
+    {
+      "link": "#",
+      "linkText": "Shop"
+    },
+    {
+      "link": "#",
+      "linkText": "Sale"
+    },
+    {
+      "link": "#",
+      "linkText": "Contacts"
+    }
+  ],
+  "carousel": [
+    {
+      "id": "test",
+      "theme": "dark",
+      "lead": "BIG BANG",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "link": "https://app.simoona.com/",
+      "linkView": "btn",
+      "xPosition": "x-center",
+      "yPosition": "y-center",
+      "textAlign": "text-center",
+      "linkSpace": "3"
+    },
+    {
+      "id": "testx",
+      "lead": "BIG BANG",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "link": "https://app.simoona.com/",
+      "linkView": "btn",
+      "xPosition": "x-center",
+      "yPosition": "y-center",
+      "textAlign": "text-center",
+      "linkSpace": "3"
+    },
+    {
+      "id": 1,
+      "img": "https://picsum.photos/id/20/500/900",
+      "description": "Description of image",
+      "lead": "Lead text",
+      "text": "Lorem ipsum dolor sit amet.",
+      "link": "other.html",
+      "linkText": "",
+      "linkView": "btn",
+      "xPosition": "x-center",
+      "yPosition": "y-center",
+      "textAlign": "text-center",
+      "linkTitle": "",
+      "space": "3"
+    },
+    {
+      "id": "test-2",
+      "lead": "BIG BANG",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "link": "https://app.simoona.com/",
+      "linkView": "btn",
+      "xPosition": "x-center",
+      "yPosition": "y-center",
+      "textAlign": "text-center",
+      "linkSpace": "5"
+    },
+    {
+      "id": 2,
+      "theme": "dark",
+      "img": "https://picsum.photos/id/598/1200/900",
+      "description": "Article of image",
+      "lead": "Lead text",
+      "text": "Lorem, ipsum.",
+      "link": "https://css-tricks.com/css-only-carousel/",
+      "linkText": "article about carousel",
+      "linkTarget": "_blank",
+      "linkTitle": "Be careful the link opens new window",
+      "yPosition": "y-bottom"
+    },
+    {
+      "id": 3,
+      "theme": "light",
+      "img": "https://picsum.photos/id/831/400/600",
+      "description": "Description of image 3",
+      "text": "Lorem ipsum dolor sit amet consectetur.",
+      "link": "other.html",
+      "linkView": "btn",
+      "linkText": "button link",
+      "xPosition": "x-right",
+      "yPosition": "y-bottom",
+      "textAlign": "text-right",
+      "linkSpace": "2"
+    },
+    {
+      "id": 4,
+      "theme": "dark",
+      "img": "https://picsum.photos/id/1018/1980/1200",
+      "description": "Description of image 3",
+      "lead": "Lead text",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "link": "https://coolors.co/3d5a80-98c1d9-e0fbfc-ee6c4d-293241",
+      "linkView": "btn",
+      "linkText": "color scheme",
+      "linkTarget": "_blank",
+      "linkTitle": "Be careful the link opens new window",
+      "xPosition": "x-right",
+      "yPosition": "y-top",
+      "textAlign": "text-right"
+    },
+    {
+      "id": 5,
+      "theme": "dark",
+      "img": "https://picsum.photos/id/960/800/800",
+      "description": "Description of image 3",
+      "lead": "Lead text",
+      "text": "Lorem ipsum dolor sit.",
+      "link": "https://frontendmasters.com/guides/front-end-handbook/2019/",
+      "linkText": "and link",
+      "linkTarget": "_blank",
+      "linkTitle": "Be careful the link opens new window",
+      "xPosition": "x-center",
+      "yPosition": "y-bottom",
+      "textAlign": "text-left",
+      "space": "3"
+    },
+    {
+      "id": 6,
+      "theme": "black",
+      "img": "https://picsum.photos/id/1036/680/380",
+      "description": "Description of image",
+      "lead": "Lead text",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat porro doloremque repellat accusamus architecto officia dolorum debitis, ratione corporis laborum repellendus culpa! Officiis quos laboriosam voluptates accusamus velit, unde deleniti.",
+      "link": "https://app.simoona.com/",
+      "linkText": "and link into the text",
+      "linkTarget": "_blank",
+      "linkTitle": "Be careful the link opens new window",
+      "xPosition": "x-center",
+      "yPosition": "y-bottom",
+      "textAlign": "text-center",
+      "space": "1",
+      "linkSpace": "2"
+    },
+    {
+      "id": 7,
+      "img": "https://picsum.photos/id/20/500/900",
+      "description": "Description of image",
+      "lead": "Lead text",
+      "text": "Lorem ipsum dolor sit amet.",
+      "link": "other.html",
+      "linkText": "",
+      "linkView": "btn",
+      "xPosition": "x-center",
+      "yPosition": "y-center",
+      "textAlign": "text-center",
+      "linkTitle": "",
+      "space": "3"
+    },
+    {
+      "id": 8,
+      "lead": "BIG BANG",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "link": "https://app.simoona.com/",
+      "linkView": "btn",
+      "xPosition": "x-center",
+      "yPosition": "y-center",
+      "textAlign": "text-center",
+      "linkSpace": "3"
+    }
+  ],
+  "shop": [
+    {
+      "name": "Lorem, ipsum.",
+      "description": "Quam fuga sed, quae quasi tempora hic consequuntur sint odit libero asperiores recusandae amet similique!",
+      "title": "",
+      "img": "https://picsum.photos/id/185/350/300",
+      "alt": "Product",
+      "space": "2",
+      "link": "http://localhost:8080/other.html",
+      "linkText": "A button",
+      "linkView": "on",
+      "id": 8
+    },
+    {
+      "name": "Test product 2",
+      "description": "",
+      "title": "",
+      "img": "https://picsum.photos/id/80/350/300",
+      "alt": "",
+      "space": "2",
+      "link": "https://picsum.photos/id/78/350/300",
+      "linkText": "button",
+      "linkView": "on",
+      "id": 10
+    },
+    {
+      "name": "Test product 2",
+      "description": "",
+      "title": "",
+      "img": "https://picsum.photos/id/73/350/300",
+      "alt": "",
+      "space": "2",
+      "link": "",
+      "linkText": "",
+      "id": 11
+    },
+    {
+      "name": "Test product 2",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officiis laudantium quasi maxime veritatis expedita labore ipsum, mollitia possimus odio saepe libero rem quo, illum cum obcaecati nisi sequi qui architecto. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officiis laudantium quasi maxime veritatis expedita labore ipsum, mollitia possimus odio saepe libero rem quo, illum cum obcaecati nisi sequi qui architecto.\nLorem, ipsum dolor sit amet consectetur adipisicing elit. Officiis laudantium quasi maxime veritatis expedita labore ipsum, mollitia possimus odio saepe libero rem quo, illum cum obcaecati nisi sequi qui architecto.",
+      "title": "",
+      "img": "https://picsum.photos/id/1010/581/384",
+      "alt": "",
+      "space": "0",
+      "link": "",
+      "linkText": "read more",
+      "linkView": "on",
+      "id": 12
+    },
+    {
+      "name": "test product 3",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officiis laudantium quasi maxime veritatis expedita labore ipsum, mollitia possimus odio saepe libero rem quo, illum cum obcaecati nisi sequi qui architecto.",
+      "title": "",
+      "img": "https://picsum.photos/id/102/282/618",
+      "alt": "",
+      "space": "3",
+      "link": "",
+      "linkText": "",
+      "id": 13
+    },
+    {
+      "name": "test 4",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officiis laudantium quasi maxime veritatis expedita labore ipsum, mollitia possimus odio saepe libero rem quo, illum cum obcaecati nisi sequi qui architecto.",
+      "title": "",
+      "img": "https://picsum.photos/id/106/502/206",
+      "alt": "",
+      "space": "1",
+      "link": "",
+      "linkText": "button",
+      "linkView": "on",
+      "id": 14
+    },
+    {
+      "name": "product 2",
+      "description": "",
+      "title": "",
+      "img": "https://picsum.photos/id/104/428/489",
+      "alt": "",
+      "space": "2",
+      "link": "",
+      "linkText": "",
+      "id": 15
+    },
+    {
+      "name": "img",
+      "description": "This is a description of the current image. Here may be some information when and why image is taked\n",
+      "title": "",
+      "img": "https://picsum.photos/id/101/657/517",
+      "alt": "",
+      "space": "1",
+      "link": "",
+      "linkText": "go here",
+      "linkView": "on",
+      "id": 16
+    }
+  ]
+}
