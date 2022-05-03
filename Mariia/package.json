@@ -1,0 +1,30 @@
+{
+  "name": "intern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
+    "livereload": "livereload",
+    "http-server": "http-server ./tasks -c-1",
+    "json-server": "json-server --watch server/server.json --port 3001"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariiaNeroznak/Intern.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariiaNeroznak/Intern/issues"
+  },
+  "homepage": "https://github.com/MariiaNeroznak/Intern#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
